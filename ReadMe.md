@@ -1,5 +1,5 @@
 # 💫About Me :
-I’m currently working in Computools as Head Of Frontend Development. I have huge pet-project that built for administering telegram bots on my servers (Deploy, Monitoring, Invoicing, etc…). Starting up my youtube career :)
+Hey! My name is Dmytro and I'm a Software Engineer. I have huge pet-project that built for administering telegram bots on my servers (Deploy, Monitoring, Invoicing, etc…). Starting up my youtube career :)
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/nokwin#8644) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nokwinua) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nokwin_ua) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytro-batarin-30101551) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nokwin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nokwin_ua) 
